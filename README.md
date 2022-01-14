@@ -23,7 +23,7 @@
 
 The project is showing information about different Cryptocurrencies, News, Market Cap, Exchanges, Daily Volume, Charts.
 
-It uses 2 [RapidApi](https://rapidapi.com/)([Coinranking](https://rapidapi.com/Coinranking/api/coinranking1/) + [Bing News](https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/) and [Redux Toolkit](https://redux-toolkit.js.org/).
+It uses 2 [RapidApi](https://rapidapi.com/)([Coinranking](https://rapidapi.com/Coinranking/api/coinranking1/) + [Bing News](https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/)) and [Redux Toolkit](https://redux-toolkit.js.org/).
 
 ## Live Demo
 
