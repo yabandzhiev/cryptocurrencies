@@ -27,7 +27,7 @@ It uses 2 [RapidApi](https://rapidapi.com/) ([Coinranking](https://rapidapi.com/
 
 ## Live Demo
 
-In progress - https://progress-bar.dev/58/
+In progress - <img src='https://progress-bar.dev/58/' alt='progress' />
 
 ## Built With
 
